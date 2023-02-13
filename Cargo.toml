@@ -1,0 +1,2 @@
+[workspace]
+members = ["crates/sycamore/my-project"]
