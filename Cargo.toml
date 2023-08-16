@@ -1,2 +1,2 @@
 [workspace]
-members = ["crates/sycamore/my-project"]
+members = ["learn-axum"]
